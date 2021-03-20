@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Workout</string>
+    <string name="workout_here">Workout Here</string>
+    <string name="find_workout">On</string>
+    
+    <string-array name="Workout_types">
+        <item>Push-ups</item>
+        <item>Chest</item>
+        <item>Biceps And Arms</item>
+        <item>Abs</item>
+        <item>Shoulder And Triceps</item>
+        <item>Back</item>
+        <item>Legs</item>
+    </string-array>
+</resources>
